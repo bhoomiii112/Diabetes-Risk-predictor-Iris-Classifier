@@ -1,5 +1,5 @@
 import streamlit as st
-from sklearn.utils import joblib
+import joblib
 import numpy as np
 import pandas as pd
 import warnings
